@@ -5,6 +5,5 @@
     ],
     "routes": [
       { "src": "/(.*)", "dest": "app.py" }
-    ],
-    "pythonVersion": "3.12"
+    ]
   }
