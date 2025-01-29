@@ -1,1 +1,9 @@
-{"projectId":"prj_Wqtxeaglm40AaqwwYc6qGAcvg6lf","orgId":"team_6WfROBTiFr2ehwYBg83aB1NT"}
+{
+    "projectId":"prj_Wqtxeaglm40AaqwwYc6qGAcvg6lf",
+    "orgId":"team_6WfROBTiFr2ehwYBg83aB1NT",
+    "functions": {
+    "api/**": {
+      "excludeFiles": "{.next,*.cache,node_modules,public,app}/**"
+    }
+  }
+}
