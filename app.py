@@ -1,7 +1,7 @@
-# import joblib
+import joblib
 import numpy as np
-# import scipy
-# import threadpoolctl
+import scipy
+import threadpoolctl
 from sklearn.neighbors import KNeighborsClassifier
 from flask import Flask, render_template, request, redirect
 import pickle
